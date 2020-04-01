@@ -1,2 +1,2 @@
 # CPE-322
-Design IV
+Design VI
