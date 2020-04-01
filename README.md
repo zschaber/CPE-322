@@ -1,2 +1,2 @@
-# ECE-232
+# CPE-322
 Design IV
